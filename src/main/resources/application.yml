@@ -1,0 +1,10 @@
+server:
+  port: 8095
+
+info:
+  component: Spring Kafka Producer
+ 
+kafka:
+  bootstrap-servers: 192.168.99.100:9092
+  topic:
+    test: test.t
